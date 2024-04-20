@@ -28,4 +28,6 @@ public class Operador extends Funcionario{
     public void setRamal(String ramal) {
         this.ramal = ramal;
     }
+
+
 }
