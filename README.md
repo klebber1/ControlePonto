@@ -1,4 +1,7 @@
-Controle de Ponto
+                                                                      Controle de Ponto
+
+
+
 Este projeto é um sistema de controle de ponto desenvolvido em Java, criado com o objetivo principal de aprender e aprimorar habilidades na linguagem de programação Java e em desenvolvimento de software orientado a objetos.
 
 Motivação e Objetivos:
