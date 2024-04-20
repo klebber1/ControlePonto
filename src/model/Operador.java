@@ -6,6 +6,7 @@ public class Operador extends Funcionario{
     private String ramal;
 
 
+
     public Operador(int idFunc, String nome, String email, String documento, String telefone, String ramal) {
         super(idFunc, nome, email, documento);
         this.telefone = telefone;

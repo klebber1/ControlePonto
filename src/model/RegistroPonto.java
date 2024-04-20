@@ -3,6 +3,7 @@ package model;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+
 public class RegistroPonto {
     public String registraEntrada;
     public String registraSaida;

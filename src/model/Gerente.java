@@ -5,6 +5,7 @@ public class Gerente extends Funcionario{
     private String senha;
 
 
+
     public Gerente(int idFunc, String nome, String email, String documento, String loguin, String senha) {
         super(idFunc, nome, email, documento);
         this.loguin = loguin;

@@ -7,6 +7,7 @@ public abstract class Funcionario{
     private String documento;
 
 
+
     public Funcionario(int idFunc, String nome, String email, String documento) {
         this.idFunc = idFunc;
         this.nome = nome;
