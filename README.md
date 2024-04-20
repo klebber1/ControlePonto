@@ -1,4 +1,4 @@
-                                                                      Controle de Ponto
+                                                  Controle de Ponto
 
 
 
