@@ -13,8 +13,4 @@ public class RegistroPonto {
     public LocalDateTime horaSaida;
 
 
-
-
-
-
 }

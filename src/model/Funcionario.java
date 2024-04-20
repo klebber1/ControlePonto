@@ -46,4 +46,6 @@ public abstract class Funcionario{
     public void setDocumento(String documento) {
         this.documento = documento;
     }
+
+
 }

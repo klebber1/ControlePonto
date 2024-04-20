@@ -18,4 +18,6 @@ public class Secretaria extends Funcionario{
     public void setValorHora(double valorHora) {
         this.valorHora = valorHora;
     }
+
+
 }
